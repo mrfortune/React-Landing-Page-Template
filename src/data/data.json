@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
+        "title": "The UI/UX Experts",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
@@ -105,9 +105,9 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "183 Sterling Street, Brooklyn, New York, 11225 ",
+        "phone": "+1 646 620 4438",
+        "email": "rharris@worldshaker.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
