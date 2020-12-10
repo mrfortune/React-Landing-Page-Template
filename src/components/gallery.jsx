@@ -20,11 +20,11 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/01-large.jpg"
-                      title="Project Title"
+                      title="Saks Fifth Ave"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>A/B testing sites for <br/>Saks Fifth Ave Redesign</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -41,11 +41,11 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/02-large.jpg"
-                      title="Project Title"
+                      title="TV Guide"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Web Producer for <br/> Redesign of TVGuide.com</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -62,11 +62,11 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/03-large.jpg"
-                      title="Project Title"
+                      title="Dow Jones - wsj.com"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Design Technologist work on redesign of wsj.com</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -83,11 +83,11 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/04-large.jpg"
-                      title="Project Title"
+                      title="TouchTunes"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>UI/UX development work done</h4>
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
