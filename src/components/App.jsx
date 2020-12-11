@@ -9,7 +9,12 @@ import Testimonials from './testimonials';
 import Team from './Team';
 import Contact from './contact';
 import $ from 'jquery';
+import ReactDOM from 'react-dom'
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fab } from '@fortawesome/free-brands-svg-icons';
+import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
 
+library.add(fab, faCheckSquare, faCoffee);
 export class App extends Component {
   state = {
     resumeData : {},
