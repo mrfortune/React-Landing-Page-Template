@@ -80,6 +80,7 @@ hr {
 	font-weight: 700;
 	color: #333;
 	text-transform: uppercase;
+	text-indent: -9999px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -193,9 +194,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-size: cover;
 	-o-background-size: cover;
 }
-.intro .overlay {
+/*.intro .overlay {
 	background: rgba(0,0,0,0.2);
-}
+}*/
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
