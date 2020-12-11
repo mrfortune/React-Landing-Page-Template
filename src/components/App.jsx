@@ -11,10 +11,10 @@ import Contact from './contact';
 import $ from 'jquery';
 import ReactDOM from 'react-dom';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { fab, faShopify } from '@fortawesome/free-brands-svg-icons';
+import { faShopify } from '@fortawesome/free-brands-svg-icons';
 import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faCheckSquare, faCoffee, faShopify);
+library.add(fab, faCheckSquare, faCoffee);
 export class App extends Component {
   state = {
     resumeData : {},
