@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "UI/UX & Media Experts",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "Delivering great Web solutions through a user-centered design approach, and creating exciting and intuitive user experiences."
 
     },
     "About": {
@@ -21,32 +21,32 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fab fa-wordpress fa-7x",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-shopify",
+            "icon": "fab fa-shopify fa-7x",
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fab fa-react fa-7x",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-language",
+            "icon": "fas fa-photo-video fa-7x",
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-plane",
+            "icon": "fas fa-mobile-alt fa-7x",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-pie-chart",
+            "icon": "fas fa-sitemap fa-7x",
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
