@@ -42,12 +42,12 @@
         },
         {
             "icon": "fas fa-mobile-alt fa-7x",
-            "name": "Lorem ipsum dolor",
+            "name": "Mobile",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fas fa-sitemap fa-7x",
-            "name": "Consectetur adipiscing",
+            "name": "UI/UX Design and Developmet",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
 
