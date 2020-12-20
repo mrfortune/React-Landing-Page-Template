@@ -34,17 +34,18 @@
             "icon": "fab fa-react fa-7x",
             "name": "React",
             "text": "Our development framework that we have adopted as our prefered dev solution"
-        },
+        }
+        ,
         {
             "icon": "fas fa-photo-video fa-7x",
             "name": "Digital Media Development",
-            "text": "As creatives, first and foremost, we provide media production and developmet services, which includes photography and video production and editing."
+             "text": "As creatives, first and foremost, we provide media production and developmet services."
         },
         {
             "icon": "fas fa-mobile-alt fa-7x",
             "name": "Mobile",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
+        }, 
         {
             "icon": "fas fa-sitemap fa-7x",
             "name": "UI/UX Design and Developmet",
