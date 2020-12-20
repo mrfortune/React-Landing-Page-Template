@@ -6,39 +6,39 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Founded in 1998 we began designing and developing Web solutions for media and entertainment. In fact our initial business plan was what is now SoundCloud. We had a vision of where this could go then. At that time the Web was very new for consumers and much of the infrastucture, such as broadband, was not available so there we a lot of limitations of what content could be delivered. This limited the user experience one could deliver. Fast froward and we are in a bold new world of exciting Web experiences and we are here to help you deliver great content and cutting edge user experiences to your clients, customers, and end-users",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Experience",
+            "Vision",
+            "Tech Skills",
+            "Media Skills"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
+            "Creativity",
+            "Cost Effective",
             "Exercitation ullamco",
             "Lorem ipsum dolor"
         ]
     },
     "Services": [{
             "icon": "fab fa-wordpress fa-7x",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Wordpress",
+            "text": "WordPress is perhaps the most popular CMS soltuon in the world, and we have years of experience in setting up and designing and developing for the platform."
         },
         {
             "icon": "fab fa-shopify fa-7x",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Shopify",
+            "text": "A lot of e-commerce solutions to choose from but we specialize in Shopify for your e-comm needs."
         },
         {
             "icon": "fab fa-react fa-7x",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "React",
+            "text": "Our development framework that we have adopted as our prefered dev solution"
         },
         {
             "icon": "fas fa-photo-video fa-7x",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Digital Media Development",
+            "text": "As creatives, first and foremost, we provide media production and developmet services, which includes photography and video production and editing."
         },
         {
             "icon": "fas fa-mobile-alt fa-7x",
